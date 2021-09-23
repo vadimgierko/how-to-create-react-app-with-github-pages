@@ -12,3 +12,4 @@ So... feel free to use this knowledge & happy coding!
 ## What you need to know/ have to complete these steps
 - Basic knowledge of React (+ export/ import)
 - GitHub account
+
