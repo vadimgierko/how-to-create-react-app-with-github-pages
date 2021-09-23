@@ -1,7 +1,7 @@
 {
-  "name": "how-to-create-react-app-and-publish-it-with-github-pages-step-by-step",
+  "name": "how-to-create-react-app-with-github-pages",
   "version": "0.1.0",
-  "homepage": "https://vadimgierko.github.io/how-to-create-react-app-and-publish-it-with-github-pages-step-by-step",
+  "homepage": "https://vadimgierko.github.io/how-to-create-react-app-with-github-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
