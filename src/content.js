@@ -48,12 +48,14 @@ const CONTENT = {
             ]
         },
         {
-            title: "PS. Adding Bootstrap & Bootstrap Icons into project",
+            title: "PS. Adding Bootstrap, Bootstrap Icons & Bootswatch into project",
             content: [
                 `Run: "npm install --save bootstrap" in your Visual Code Studio Terminal`,
                 `Import Bootstrap CSS in the beginning of your src/index.js file: "import 'bootstrap/dist/css/bootstrap.css';"`,
                 `Run: "npm i bootstrap-icons" in your Visual Code Studio Terminal`,
-                `Import Bootstrap Icons CSS in the beginning of your src/index.js file: 'import "bootstrap-icons/font/bootstrap-icons.css";'`
+                `Import Bootstrap Icons CSS in the beginning of your src/index.js file: 'import "bootstrap-icons/font/bootstrap-icons.css";'`,
+                `Install Bootswatch as a package via npm with the command "npm install bootswatch"`,
+                `Add to your top-level index.js (or App.js) file before any other .css imports: 'import "bootswatch/dist/[theme]/bootstrap.min.css"'`
             ]
         }
     ]
